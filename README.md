@@ -1,1 +1,1 @@
-#[Preview](https://ashesbloom.github.io/Fundraiser/)
+#[Preview](https://ashesbloom.github.io/Fundraiser/index.html)
